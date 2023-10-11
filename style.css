@@ -1,0 +1,33 @@
+/* Цвета:
+	#0C0032
+	#190061
+	#240090
+	#3500D3
+	#282828
+ */
+body{
+	background-color: #212529;
+}
+
+header{
+	color: white;
+	text-align: center;
+	font-size: calc( (100vw - Vmin)/(Vmax - Vmin) * (Fmax - Fmin) + Fmin);
+}
+
+header ul{
+	list-style-type: none;
+}
+
+div{
+	width: 70%
+	center
+}
+
+main{
+	color: white;
+}
+
+header div .card{
+	background-color: red;
+}
